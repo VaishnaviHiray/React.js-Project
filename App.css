@@ -1,0 +1,14 @@
+    .styling {
+        background-color: aqua;
+        cursor: pointer;
+    }
+    
+    .container {
+        background-color: paleturquoise;
+    }
+    
+    .IMG {
+        height: 100 px;
+        width: 100px;
+        background-color: beige;
+    }

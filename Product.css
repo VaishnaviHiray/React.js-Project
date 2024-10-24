@@ -1,0 +1,26 @@
+.page {
+    background-color: brown
+}
+
+.cart {
+    background-color: blanchedalmond;
+    grid-row: 2px;
+    flex: 2px;
+}
+
+.cool {
+    background-color: chartreuse;
+}
+
+.border {
+    background-color: gray;
+}
+
+.heading {
+    background-color: aquamarine;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}
